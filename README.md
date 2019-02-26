@@ -1,5 +1,5 @@
 # LDA-Topic-modelling-
-In this repositories we have classfied the text document using unsupervised LDA.
+In this repositories we have done classfication of text document using unsupervised LDA.
 
 # About the dataset 
 We have given a link of text data of edgars report.
