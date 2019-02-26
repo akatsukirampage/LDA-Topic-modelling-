@@ -2,7 +2,7 @@
 In this repositories we have done classfication of text document using unsupervised LDA.
 
 # About the dataset 
-We have given a link of text data of edgars report.
+We have given a link of text data of edgars report.You can get the dataset by visiting the link https://www.sec.gov/Archives/edgar/data/3662/0000950170-98-000413.txt
 
 # List of processes performed in this repo.
     - First of all we have to fetch the text data from the given link using python Request and Beautiful soup library
